@@ -1,10 +1,3 @@
-Here’s a complete premium-style `README.md` for your GitHub profile — designed for a **Data Engineer** with a modern dark aesthetic, animated badges, typing animation, GitHub stats, tech stack, tools, cloud ecosystem, and professional sections.
-
-````md
-<!-- ========================================= -->
-<!--            GITHUB PROFILE README          -->
-<!-- ========================================= -->
-
 <h1 align="center">Hi 👋, I'm Your Name</h1>
 
 <h3 align="center">

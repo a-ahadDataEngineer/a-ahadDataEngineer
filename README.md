@@ -8,9 +8,9 @@
 
 <div align="center">
 
-# ⚡ YOUR NAME ⚡
+# Abdul Ahad 
 
-### `Senior Data Engineer` • `Big Data Architect` • `Cloud Data Specialist`
+### `Data Engineer` • `Big Data Architect` • `Cloud Data Specialist`
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=1000&lines=Building+Modern+Data+Platforms;Designing+Scalable+ETL+%26+ELT+Pipelines;Apache+Spark+%7C+Kafka+%7C+Airflow+%7C+Snowflake;Real-Time+Streaming+Architecture;Cloud-Native+Data+Engineering;Turning+Data+into+Business+Intelligence" />
 
@@ -31,7 +31,7 @@
 <img align="right" alt="Coding" width="370" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJzbzA4eG43bzN5eW94eGx4MnE5OWxocG4wZXg5YmR1M2g0NmQ4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif">
 
 ```yaml id="f34k0c"
-name: Your Name
+name: Abdul Ahad
 
 role: Senior Data Engineer
 
